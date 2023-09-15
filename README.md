@@ -28,8 +28,8 @@ A passionate developer from Germany
 
 ## GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingwjan&show_icons=true&locale=en&layout=compact" alt="codingwjan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingwjan&show_icons=true&locale=en" alt="codingwjan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingwjan&show_icons=true&locale=en&layout=compact&theme=blue_navy" alt="codingwjan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingwjan&show_icons=true&locale=en&theme=blue_navy" alt="codingwjan" /></p>
 
 ## Imprint
 

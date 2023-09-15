@@ -6,7 +6,7 @@ A passionate developer from Germany
 
 - 🔭 I’m currently working at my own business called **Pro Web-Development** together with @cancelcloud
 - 🌱 I’m interested in **Front End, Design, Cloud Computing, and Data Processing**
-- 📫 You can reach me at **blithe-sinuses0t@icloud.com**
+- 📫 You can reach me at **jan@pro-webdev.de**
 
 ## Skills
 

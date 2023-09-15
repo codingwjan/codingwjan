@@ -34,4 +34,4 @@ A passionate developer from Germany
 ## Imprint
 
 **Jan Pink**
-Email: blithe-sinuses0t@icloud.com
+Email: jan@pro-webdev.de
